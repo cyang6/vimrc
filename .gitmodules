@@ -1,0 +1,21 @@
+[submodule "sources_non_forked/dracula-theme"]
+	path = sources_non_forked/dracula-theme
+	url = git@github.com:dracula/vim.git
+[submodule "sources_non_forked/vim-rails"]
+	path = sources_non_forked/vim-rails
+	url = git://github.com/tpope/vim-rails.git
+[submodule "sources_non_forked/vim-bundler"]
+	path = sources_non_forked/vim-bundler
+	url = git://github.com/tpope/vim-bundler.git
+[submodule "sources_non_forked/YouCompleteMe"]
+	path = sources_non_forked/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "sources_non_forked/vim-autotag"]
+	path = sources_non_forked/vim-autotag
+	url = https://github.com/craigemery/vim-autotag.git
+[submodule "sources_non_forked/vim-slim"]
+	path = sources_non_forked/vim-slim
+	url = https://github.com/slim-template/vim-slim.git
+[submodule "sources_non_forked/taglist.vim"]
+	path = sources_non_forked/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
