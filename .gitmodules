@@ -1,0 +1,51 @@
+[submodule "sources_non_forked/dracula-theme"]
+	path = sources_non_forked/dracula-theme
+	url = git@github.com:dracula/vim.git
+[submodule "sources_non_forked/vim-rails"]
+	path = sources_non_forked/vim-rails
+	url = https://github.com/tpope/vim-rails.git
+[submodule "sources_non_forked/vim-bundler"]
+	path = sources_non_forked/vim-bundler
+	url = git://github.com/tpope/vim-bundler.git
+[submodule "sources_non_forked/YouCompleteMe"]
+	path = sources_non_forked/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "sources_non_forked/vim-autotag"]
+	path = sources_non_forked/vim-autotag
+	url = https://github.com/craigemery/vim-autotag.git
+[submodule "sources_non_forked/vim-slim"]
+	path = sources_non_forked/vim-slim
+	url = https://github.com/slim-template/vim-slim.git
+[submodule "sources_non_forked/taglist.vim"]
+	path = sources_non_forked/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "sources_non_forked/vim-smooth-scroll"]
+	path = sources_non_forked/vim-smooth-scroll
+	url = https://github.com/terryma/vim-smooth-scroll.git
+[submodule "sources_non_forked/typescript-vim"]
+	path = sources_non_forked/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "sources_non_forked/tagbar"]
+	path = sources_non_forked/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "sources_non_forked/vim-easymotion"]
+	path = sources_non_forked/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
+[submodule "sources_non_forked/delimitmate"]
+	path = sources_non_forked/delimitmate
+	url = https://github.com/raimondi/delimitmate
+[submodule "sources_non_forked/vim-easytags"]
+	path = sources_non_forked/vim-easytags
+	url = https://github.com/xolox/vim-easytags
+[submodule "sources_non_forked/vim-cucumber"]
+	path = sources_non_forked/vim-cucumber
+	url = https://github.com/tpope/vim-cucumber.git
+[submodule "sources_non_forked/vim-javascript"]
+	path = sources_non_forked/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "sources_non_forked/vim-jsx"]
+	path = sources_non_forked/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
+[submodule "sources_non_forked/vim-haml"]
+	path = sources_non_forked/vim-haml
+	url = https://github.com/tpope/vim-haml.git
