@@ -1,12 +1,12 @@
 [submodule "sources_non_forked/dracula-theme"]
 	path = sources_non_forked/dracula-theme
-	url = git@github.com:dracula/vim.git
+	url = https://github.com/dracula/vim.git
 [submodule "sources_non_forked/vim-rails"]
 	path = sources_non_forked/vim-rails
-	url = git://github.com/tpope/vim-rails.git
+	url = https://github.com/tpope/vim-rails.git
 [submodule "sources_non_forked/vim-bundler"]
 	path = sources_non_forked/vim-bundler
-	url = git://github.com/tpope/vim-bundler.git
+	url = https://github.com/tpope/vim-bundler.git
 [submodule "sources_non_forked/YouCompleteMe"]
 	path = sources_non_forked/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
