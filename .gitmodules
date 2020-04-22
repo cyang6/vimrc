@@ -28,6 +28,3 @@
 [submodule "sources_non_forked/delimitmate"]
 	path = sources_non_forked/delimitmate
 	url = https://github.com/raimondi/delimitmate
-[submodule "sources_non_forked/vim-easytags"]
-	path = sources_non_forked/vim-easytags
-	url = https://github.com/xolox/vim-easytags
